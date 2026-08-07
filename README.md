@@ -162,6 +162,3 @@ A single-page dashboard connects live to the MySQL database (including two custo
 ## Author
 
 Anchita | Aspiring Data Analyst | [LinkedIn](https://www.linkedin.com/in/anchita-bose-46059b246/)
-## Author
-
-Anchita | Aspiring Data Analyst | [LinkedIn](https://www.linkedin.com/in/anchita-bose-46059b246/)
